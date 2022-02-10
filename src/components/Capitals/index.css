@@ -1,0 +1,31 @@
+.main-container {
+  height: 100vh;
+  background-color: #93c5fd;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.data-container {
+  background-color: #ffffff;
+  padding: 25px;
+  border-radius: 8px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-size: 34px;
+}
+
+#capital {
+  padding: 5px;
+  border-radius: 4px;
+  border-width: 1px;
+  background-color: #ffffff;
+}
+
+.heading1 {
+  font-size: 30px;
+}
